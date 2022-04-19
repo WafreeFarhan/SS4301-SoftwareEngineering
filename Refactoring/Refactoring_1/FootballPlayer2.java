@@ -1,4 +1,4 @@
-// Demonstrate chain constructors
+//chain constructors
 
 public class FootballPlayer2 {
 	
